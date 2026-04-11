@@ -1,4 +1,4 @@
-# Phase 6: System Evaluation & Reflection
+# Phase 5: System Evaluation & Reflection
 
 ### 1. How does this help Hub Managers?
 It automates safety. Instead of managers arguing with vendors, the AI uses real-time pedestrian data to prove why a spot is safe or unsafe, reducing conflict and improving flow.
