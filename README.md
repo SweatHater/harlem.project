@@ -108,9 +108,9 @@ The system relies on smartphone access and GPS accuracy. If a vendor's phone die
 # Phase 6: Process Log & AI Documentation
 
 ### Team Roles
-* **Project Manager:** [Your Name]
-* **AI Logic Architect:** [Your Name] / Gemini AI
-* **UI Designer:** [Your Name]
+* **Project Manager:** Taha Ilyas
+* **AI Logic Architect:** Taha Ilyas
+* **UI Designer:** Taha Ilyas
 
 ### AI Prompt History
 The following prompts were used to develop the Harlem Hub prototype:
