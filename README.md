@@ -1,5 +1,5 @@
 # Harlem Hub: AI-Powered Transit & Vendor Manager
-**An AI Platform for Organizing Community Vendor Markets in Urban Transit Hubs**
+### Lead Designer: Taha Ilyas**An AI Platform for Organizing Community Vendor Markets in Urban Transit Hubs**
 
 ## 1. Project Overview
 Harlem Hub is a prototype AI-supported platform designed to help city planners and community groups manage the flow of pedestrians and local vendors at major Harlem transit intersections (e.g., 125th St & Lexington).
