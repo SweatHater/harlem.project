@@ -38,8 +38,11 @@ To ensure fairness and safety, the AI follows these programmed "Harlem Rules":
 ## 6. AI Placement Engine (The Logic)
 
 **Category Buffering:** Automatically places vendors selling similar items (like two bakeries) at least 50 feet apart to prevent repetitive clusters. 
+
 **Anchor Distribution:** Spreads high-demand categories across the park to ensure balanced foot traffic for all vendors. 
+
 **Hyper-Local Priority:** Recognizes Harlem zip codes and prioritizes those vendors for high-visibility "Tier 1" slots.
+
 **Diversity Balance:** Monitors the ratio of product types (Food, Crafts, Produce) to ensure a fair and balanced market layout. 
 ---
 
