@@ -44,6 +44,7 @@ To ensure fairness and safety, the AI follows these programmed "Harlem Rules":
 **Hyper-Local Priority:** Recognizes Harlem zip codes and prioritizes those vendors for high-visibility "Tier 1" slots.
 
 **Diversity Balance:** Monitors the ratio of product types (Food, Crafts, Produce) to ensure a fair and balanced market layout. 
+
 ---
 
 # Phase 3: AI Placement Logic (The Harlem Hub Engine)
