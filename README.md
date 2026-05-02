@@ -1,3 +1,4 @@
+<div style="background-color: #121212; color: #ffffff; padding: 40px; font-family: sans-serif;">
 # Harlem Hub: AI-Powered Transit & Vendor Manager
 ### Lead Designer: Taha Ilyas
 **An AI Platform for Organizing Community Vendor Markets in Urban Transit Hubs**
@@ -159,5 +160,6 @@ The following prompts were used to develop the Harlem Hub prototype:
 * **Session 1:** Defined the problem of "Transit Hub Chaos."
 * **Session 2:** Developed the "Harlem-First" priority weighting system.
 * **Session 3:** Evaluated system limitations (e.g., weather and phone battery life).
+ </div>
 
 
