@@ -35,6 +35,9 @@ To ensure fairness and safety, the AI follows these programmed "Harlem Rules":
 **Limitations:** Requires vendors to have active mobile data; cannot predict emergency street closures perfectly.
 **AI Reflection:** AI serves as an "Impartial Referee," removing human bias from space allocation and ensuring that local residents aren't priced out of their own neighborhood's foot traffic
 
+##The AI Engine: Placement Logic
+Our AI Placement RulesThe Smart Market Planner uses a rule-based AI engine to organize the market layout. Instead of random assignment, the AI follows these four primary constraints to solve the problem of repetitive vendor clusters:  Category Buffering (The "No-Clone" Rule): The AI ensures that vendors selling similar products (e.g., two coffee stands) are placed at least 50 feet apart. This prevents "repetitive clusters" and ensures shoppers explore the whole market.  Anchor Vendor Distribution: High-demand categories like "Fresh Produce" or "Prepared Foods" are strategically spread across the park. This balances foot traffic so that smaller craft vendors located between these "anchors" get more visibility.  Hyper-Local Prioritization: The system automatically identifies vendors with a home address in the immediate Harlem neighborhood. These local businesses are given "priority slots" near the main park entrances to support the local economy.  Fairness Rotation: For weekly markets, the AI tracks previous placements. It rotates vendor positions each week so that the same vendor isn't stuck in a low-traffic corner every Sunday. 
+
 ---
 
 # Phase 3: AI Placement Logic (The Harlem Hub Engine)
