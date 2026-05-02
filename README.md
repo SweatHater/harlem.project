@@ -47,10 +47,13 @@ To ensure fairness and safety, the AI follows these programmed "Harlem Rules":
 
 ** 7. System Workflow (How it Works)
 
-Step 1: Registration: Vendors register on our platform and upload permits for mock verification.
-Step 2: AI Optimization: The placement engine analyzes the vendor list and generates a fair layout based on our logic rules.
-Step 3: Organizer Review: The Market Organizer uses a dashboard to approve or manually adjust the AI-recommended spots.
-Step 4: Public Discovery: The finalized layout is published to our browser so residents can search for their favorite vendors.
+**Step 1:** Registration:** Vendors register on our platform and upload permits for mock verification.
+
+**Step 2:** AI Optimization:** The placement engine analyzes the vendor list and generates a fair layout based on our logic rules.
+
+**Step 3:** Organizer Review: The Market Organizer uses a dashboard to approve or manually adjust the AI-recommended spots.
+
+**Step 4:** Public Discovery: The finalized layout is published to our browser so residents can search for their favorite vendors.
 
 ---
 
