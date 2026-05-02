@@ -45,7 +45,7 @@ To ensure fairness and safety, the AI follows these programmed "Harlem Rules":
 
 **Diversity Balance:** Monitors the ratio of product types (Food, Crafts, Produce) to ensure a fair and balanced market layout. 
 
-** 7. System Workflow (How it Works)
+## 7. System Workflow (How it works)
 
 **Step 1:** Registration:** Vendors register on our platform and upload permits for mock verification.
 
