@@ -30,12 +30,7 @@ To ensure fairness and safety, the AI follows these programmed "Harlem Rules":
 * **Locations Managed:** 125th St Metro-North & 125th St Subway (A/B/C/D)
 * **Efficiency Gain:** 30% reduction in sidewalk "clump" incidents compared to unmanaged layouts.
 
-## 5. Evaluation & Reflection
-**Benefits:** Improves pedestrian safety while guaranteeing economic space for the Harlem community. 
-**Limitations:** Requires vendors to have active mobile data; cannot predict emergency street closures perfectly.
-**AI Reflection:** AI serves as an "Impartial Referee," removing human bias from space allocation and ensuring that local residents aren't priced out of their own neighborhood's foot traffic
-
-## 6. AI Placement Engine (The Logic)
+## 5. AI Placement Engine (The Logic)
 
 **Category Buffering:** Automatically places vendors selling similar items (like two bakeries) at least 50 feet apart to prevent repetitive clusters. 
 
@@ -45,7 +40,7 @@ To ensure fairness and safety, the AI follows these programmed "Harlem Rules":
 
 **Diversity Balance:** Monitors the ratio of product types (Food, Crafts, Produce) to ensure a fair and balanced market layout. 
 
-## 7. System Workflow (How it works)
+## 6. System Workflow (How it works)
 
 **Step 1:** Registration:** Vendors register on our platform and upload permits for mock verification.
 
@@ -55,13 +50,23 @@ To ensure fairness and safety, the AI follows these programmed "Harlem Rules":
 
 **Step 4:** Public Discovery: The finalized layout is published to our browser so residents can search for their favorite vendors.
 
-## 8. Market Simulation Results
+## 7. Market Simulation Results
 
 **Test Environment:** We simulated a market with 20 vendors across Marcus Garvey Park.
 
 **Vendor Mix:** The dataset included 8 Food vendors, 6 Craft vendors, and 6 Produce vendors.
 
 **AI Success:** The system successfully placed 90% of local Harlem vendors in priority zones while maintaining a zero-clash category buffer. 
+
+## 8. Evaluation & Reflection
+
+**Increased Efficiency:** Reduces the manual workload for organizers by automating permit checks and spot assignments.  
+
+**Vendor Fairness:** Removes human bias by using an objective algorithm to distribute premium locations.  
+
+**Community Support:** Directly helps Harlem residents discover local talent and nearby events.  
+
+**Current Limitations:** The prototype currently requires manual document uploads and does not yet account for uneven park terrain.
 
 ---
 
